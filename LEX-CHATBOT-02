@@ -1,0 +1,14 @@
+# Add Custom Slots to a Lex Chatbot
+
+- ✔️ Set up a new chatbot from scratch on Amazon Lex
+- ✔️ Train your bot to recognise greetings and respond like a pro
+- ✔️ Add custom error handling when your bot gets confused
+- ✔️ Create custom slots so your bot can collect specific user info
+- ✔️ Test your chatbot in real-time
+- ✔️ Delete your AWS resources properly (so you don’t get surprise bills!)
+
+Chatbots use several AI technologies to create natural-feeling conversation with users:
+- NLP to understand what you're asking.
+- Generative AI to create helpful answers.
+- Speech recognition to capture input given through speech.
+
